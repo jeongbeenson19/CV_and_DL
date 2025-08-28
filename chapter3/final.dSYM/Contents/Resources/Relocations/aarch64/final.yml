@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/mac_air/CV_and_DL/chapter3/final'
+relocations:     []
+...
